@@ -4,6 +4,9 @@ Este projeto demonstra uma arquitetura de **integração entre o Camunda e aplic
 
 ---
 
+![image](https://github.com/user-attachments/assets/bdb6dc6a-8886-4738-bce2-83212b087b98)
+
+
 ## 🚀 Objetivo
 
 O principal objetivo é demonstrar como:
